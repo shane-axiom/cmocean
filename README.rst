@@ -11,7 +11,7 @@ Besides Python, the cmocean colormaps are also available for:
 * For Generic Mapping Tools (GMT)  at `cpt-city <http://soliton.vm.bytemark.co.uk/pub/cpt-city/cmocean/index.html>`_ and on `github <https://github.com/kthyng/cmocean-gmt>`_
 * For `Paraview <https://github.com/kthyng/cmocean-paraview>`_, inspired by `Phillip Wolfram <https://github.com/pwolfram>`_.
 * In `Plotly <https://plot.ly/python/cmocean-colorscales/>`_
-* Chad Greene's `Antartic Mapping Tools <http://www.mathworks.com/matlabcentral/fileexchange/47638-antarctic-mapping-tools>`_ in Matlab uses cmocean
+* Chad Greene's `Antarctic Mapping Tools <http://www.mathworks.com/matlabcentral/fileexchange/47638-antarctic-mapping-tools>`_ in Matlab uses cmocean
 
 `Documentation available <http://matplotlib.org/cmocean/>`_
 
